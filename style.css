@@ -1,0 +1,20 @@
+h1
+{
+	font-size: 75px;
+	color: lime;
+	text-align: center;
+}
+
+
+
+body
+{
+	background-image: url("/var/www/sites/images/Fond.jpg");
+}
+
+p
+{
+	text-align: center;
+	font-size: 56px;
+	color: white;
+}
