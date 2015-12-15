@@ -1,0 +1,46 @@
+div
+{
+	text-align: center;
+	font-size: 20px;
+}
+.lead
+{
+	margin-top: 50px;
+	font-size: 30px;
+}
+
+.img-2{
+	margin-top: 50px;
+	width: 100%;
+}
+
+h2
+{
+	margin-top: 300px;
+	font-family: "Times New Roman", "Classic Sans MS", "Arial Black", Verdana, Arial, sans-serif;
+	font-size: 70px;
+}
+
+.deux
+{
+	font-size: "Times New Roman", "Arial Black", "Classic Sans MS", Verdana, Arial, sans-serif;
+	font-size: 70px;
+}
+
+.nom
+{
+	text-align: right;
+}
+
+.lol
+{
+	margin-top: 50px;
+}
+
+.navbar-header
+{
+	padding-right: 150px;
+}
+
+
+

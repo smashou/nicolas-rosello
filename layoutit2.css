@@ -1,0 +1,48 @@
+.top-div{
+	margin-top: 5%;
+}
+
+.my-buttons{
+	margin-top: 9px;
+}
+
+h3
+{
+	font-size: 35px;
+}
+
+p
+{
+	font-size: 25px;
+}
+
+.un
+{
+	margin-top: 10%;
+}
+
+.image
+{
+	display: block;
+	text-align: center;
+	margin-top: 100px;
+}
+
+.texte
+{
+	margin-top: 50px;
+}
+
+nav
+{
+	color: blue;
+}
+.navbar-header
+{
+	padding-right: 150px;
+}
+
+.txtlol
+{
+	font-size: 20px;
+}
