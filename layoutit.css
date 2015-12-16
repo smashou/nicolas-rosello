@@ -94,3 +94,11 @@ section
 {
 	color: black;
 }
+
+@media screen and (max-width: 768px)
+{
+    .laliste
+    {
+    	margin-bottom: 20px;
+    }
+}
