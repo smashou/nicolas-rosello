@@ -76,3 +76,30 @@ nav
 	background-color: #0F9DE8;
 	color: white;
 }
+
+.photos
+{
+	text-align: center;
+	display: block;
+}
+
+.lefooter
+{
+	font-size: 30px;
+	color: black;
+}
+
+section
+{
+	background-color: #0F9DE8;
+}
+
+.lehaut
+{
+	color: black;
+}
+
+.lafin
+{
+	color: black;
+}
