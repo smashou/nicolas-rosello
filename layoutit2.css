@@ -46,3 +46,33 @@ nav
 {
 	font-size: 20px;
 }
+
+.liste
+{
+	font-size: 25px;
+	text-align: center;
+	color: white;
+}
+
+.laliste
+{
+	text-align: center;
+	font-size: 25px;
+
+}
+
+.centre
+{
+	text-align: center;
+	border: 6px #0F9DE8 solid;
+	border-radius: 10px;
+	background-color: #0F9DE8;
+}
+
+.mlg
+{
+	border: 6px #0F9DE8 solid;
+	border-radius: 10px;
+	background-color: #0F9DE8;
+	color: white;
+}

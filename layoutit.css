@@ -42,5 +42,34 @@ h2
 	padding-right: 150px;
 }
 
+.lul
+{
+	border: 6px #0F9DE8 solid;
+	border-radius: 10px;
+	background-color: #0F9DE8;
+	color: white;
+}
 
+.laliste
+{
+	border: 6px #0F9DE8 solid;
+	border-radius: 10px;
+	background-color: #0F9DE8;
+	color: white;
+}
 
+.uneliste
+{
+	text-align: center;
+	font-size: 25px;
+}
+
+.letexte
+{
+	font-size: 30px;
+}
+
+.officiel
+{
+	color: #0F9DE8
+}
