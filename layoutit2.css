@@ -1,4 +1,12 @@
-.top-div{
+body
+{
+	font-family: 'Roboto', sans-serif;
+}
+
+
+
+.top-div
+{
 	margin-top: 5%;
 }
 
@@ -42,10 +50,6 @@ p
 nav
 {
 	color: blue;
-}
-.navbar-header
-{
-	padding-right: 150px;
 }
 
 .txtlol
@@ -108,4 +112,14 @@ section
 .lafin
 {
 	color: black;
+}
+
+.labarre
+{
+	font-size: 20px;
+}
+
+.metiers
+{
+	font-size: 25px;
 }

@@ -1,6 +1,26 @@
 body{
 	font-family: 'Roboto', sans-serif;
 }
+
+p{
+	font-size: 15px;
+	
+}
+
+li
+{
+	font-size: 20px;
+	text-align: left;
+	margin-bottom:30px;
+
+}
+
+h3{
+	font-weight: bold;
+	margin-bottom: 35px;
+	margin-top:30px;	
+}
+
 div
 {
 	text-align: center;
@@ -9,7 +29,6 @@ div
 .lead
 {
 	margin-top: 50px;
-	font-size: 30px;
 }
 
 .img-2{
@@ -36,24 +55,44 @@ h2
 .lol
 {
 	margin-top: 50px;
+	margin-left: 40%;
+	margin-bottom: 50px;
 }
 
 
 .lul
 {
-	border: 6px #0F9DE8 solid;
+	border: 6px #4c88a1 solid;
 	border-radius: 10px;
-	background-color: #0F9DE8;
+	background-color: #4c88a1;
+	color: white;
+	font-size: 1.8em;
+}
+
+.lul1
+{
+	border: 6px #4c88a1 solid;
+	border-radius: 10px;
+	background-color: #4c88a1;
 	color: white;
 	font-size: 1.8em;
 }
 
 .laliste
 {
+	border: 6px #4c88a1 solid;
+	border-radius: 10px;
+	background-color: #4c88a1;
+	color: white;
+}
+
+.laliste1
+{
 	border: 6px #0F9DE8 solid;
 	border-radius: 10px;
 	background-color: #0F9DE8;
 	color: white;
+	margin-top: 30px;
 }
 
 .uneliste
@@ -74,7 +113,9 @@ h2
 
 .officiel
 {
-	color: #0F9DE8
+	color: #0F9DE8;
+	font-size: 30px;
+
 }
 
 .lefooter
@@ -107,3 +148,20 @@ section
     	margin-bottom: 20px;
     }
 }
+
+.image-6-col{
+	margin-top: 100px;
+}
+
+.glyphicon
+{
+	
+}
+
+
+
+
+
+
+
+
