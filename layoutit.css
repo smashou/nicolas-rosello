@@ -1,3 +1,6 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
 div
 {
 	text-align: center;
@@ -17,13 +20,11 @@ div
 h2
 {
 	margin-top: 300px;
-	font-family: "Times New Roman", "Classic Sans MS", "Arial Black", Verdana, Arial, sans-serif;
 	font-size: 70px;
 }
 
 .deux
 {
-	font-size: "Times New Roman", "Arial Black", "Classic Sans MS", Verdana, Arial, sans-serif;
 	font-size: 70px;
 }
 
@@ -37,10 +38,6 @@ h2
 	margin-top: 50px;
 }
 
-.navbar-header
-{
-	padding-right: 150px;
-}
 
 .lul
 {
@@ -48,6 +45,7 @@ h2
 	border-radius: 10px;
 	background-color: #0F9DE8;
 	color: white;
+	font-size: 1.8em;
 }
 
 .laliste
@@ -62,6 +60,11 @@ h2
 {
 	text-align: center;
 	font-size: 25px;
+	display: inline-block;
+	padding-left: 0;
+}
+.unliste li{
+	width: 50%;
 }
 
 .letexte
@@ -94,6 +97,8 @@ section
 {
 	color: black;
 }
+
+
 
 @media screen and (max-width: 768px)
 {
