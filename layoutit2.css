@@ -16,17 +16,20 @@ body
 
 h3
 {
-	font-size: 35px;
+	font-size: 30px;
+	font-weight: bold;
+	margin-bottom: 25px;
+	margin-top:30px;
 }
 
 p
 {
-	font-size: 25px;
+	font-size: 20px;
 }
 
 .texte12
 {
-	font-size: 25px;
+	font-size: 20px;
 	margin-top: 25px;
 }
 
@@ -74,16 +77,24 @@ nav
 .centre
 {
 	text-align: center;
-	border: 6px #0F9DE8 solid;
+	border: 6px #4c88a1 solid;
 	border-radius: 10px;
-	background-color: #0F9DE8;
+	background-color: #4c88a1;
 }
 
 .mlg
 {
-	border: 6px #0F9DE8 solid;
+	border: 6px #4c88a1 solid;
 	border-radius: 10px;
-	background-color: #0F9DE8;
+	background-color: #4c88a1;
+	color: white;
+}
+
+.six
+{
+	border: 6px #4c88a1 solid;
+	border-radius: 10px;
+	background-color: #4c88a1;
 	color: white;
 }
 
@@ -99,9 +110,16 @@ nav
 	color: black;
 }
 
+.officiel
+{
+	color: #0F9DE8;
+	font-size: 30px;
+
+}
+
 section
 {
-	background-color: #0F9DE8;
+	background-color: #4c88a1;
 }
 
 .lehaut
@@ -114,6 +132,11 @@ section
 	color: black;
 }
 
+.lafin1
+{
+	color: black;
+}
+
 .labarre
 {
 	font-size: 20px;
@@ -121,5 +144,60 @@ section
 
 .metiers
 {
-	font-size: 25px;
+	font-size: 20px;
+}
+
+
+.titres
+{
+	border: 6px #4c88a1 solid;
+	border-radius: 10px;
+	background-color: #4c88a1;
+	color: white;
+	font-size: 1.8em;
+}
+
+.1logo
+{
+	margin-left: 60px;
+}
+
+.glyphicon-pencil
+{
+	font-size: 250px;
+	margin-top: 120px;
+	margin-left: 100px;
+}
+
+.lal
+{
+	font-size: 20px;
+}
+
+.lal3
+{
+	text-align: left;
+	font-size: 20px;
+}
+
+.lesphotos
+{
+	margin-top: 100px;
+}
+
+.glucozor
+{
+	margin-top: 50px;
+}
+
+.glyphicon-ok
+{
+	font-size: 250px;
+	margin-top: 30px;
+	margin-left: 100px;
+}
+
+.lefini1
+{
+	margin-right: 32px;
 }

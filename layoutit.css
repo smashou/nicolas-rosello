@@ -57,16 +57,22 @@ h2
 	margin-top: 50px;
 	margin-left: 40%;
 	margin-bottom: 50px;
+	display: block;
 }
 
 
 .lul
 {
-	border: 6px #4c88a1 solid;
+	border: 4px #4c88a1 solid;
 	border-radius: 10px;
 	background-color: #4c88a1;
 	color: white;
 	font-size: 1.8em;
+}
+
+.lesphotos
+{
+	margin-top: 100px;
 }
 
 .lul1
@@ -88,9 +94,9 @@ h2
 
 .laliste1
 {
-	border: 6px #0F9DE8 solid;
+	border: 6px #4c88a1 solid;
 	border-radius: 10px;
-	background-color: #0F9DE8;
+	background-color: #4c88a1;
 	color: white;
 	margin-top: 30px;
 }
@@ -126,7 +132,7 @@ h2
 
 section
 {
-	background-color: #0F9DE8;
+	background-color: #4c88a1;
 }
 
 .lehaut
@@ -135,6 +141,11 @@ section
 }
 
 .lafin
+{
+	color: black;
+}
+
+.lafin1
 {
 	color: black;
 }
@@ -153,15 +164,23 @@ section
 	margin-top: 100px;
 }
 
-.glyphicon
+nav
 {
-	
+	height: 40px;
 }
 
+.glyphicon-blackboard
+{
+	font-size: 250px;
+	margin-top: 120px;
+}
 
+.caca
+{
+	margin-left: 100px;
+}
 
-
-
-
-
-
+.zqsd
+{
+	margin: 0 auto;
+}
