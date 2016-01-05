@@ -1,0 +1,206 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+p{
+    text-align: justify;
+
+}
+
+li
+{
+    font-size: 20px;
+    text-align: left;
+    margin-bottom:30px;
+
+}
+
+h3{
+    font-weight: bold;
+    margin-bottom: 35px;
+    margin-top:30px;
+}
+
+div
+{
+    text-align: center;
+    font-size: 20px;
+}
+.lead
+{
+    margin-top: 50px;
+}
+
+.img-2{
+    margin-top: 50px;
+    width: 100%;
+}
+
+h2
+{
+    margin-top: 300px;
+    font-size: 70px;
+}
+
+.deux
+{
+    font-size: 70px;
+}
+
+.nom
+{
+    text-align: right;
+}
+
+.lol
+{
+    margin-top: 50px;
+    margin-left: 40%;
+    margin-bottom: 50px;
+    display: block;
+}
+
+
+.lul
+{
+    border: 4px #4c88a1 solid;
+    border-radius: 10px;
+    background-color: #4c88a1;
+    color: white;
+    font-size: 1.8em;
+}
+
+.lesphotos
+{
+    margin-top: 100px;
+}
+
+.lul1
+{
+    border: 6px #4c88a1 solid;
+    border-radius: 10px;
+    background-color: #4c88a1;
+    color: white;
+    font-size: 1.8em;
+}
+
+.laliste
+{
+    border: 6px #4c88a1 solid;
+    border-radius: 10px;
+    background-color: #4c88a1;
+    color: white;
+}
+
+.laliste1
+{
+    border: 6px #4c88a1 solid;
+    border-radius: 10px;
+    background-color: #4c88a1;
+    color: white;
+    margin-top: 30px;
+}
+
+.uneliste
+{
+    text-align: center;
+    font-size: 25px;
+    display: inline-block;
+    padding-left: 0;
+}
+.unliste li{
+    width: 50%;
+}
+
+.letexte
+{
+    font-size: 30px;
+}
+
+.officiel
+{
+    color: #0F9DE8;
+    font-size: 30px;
+
+}
+
+.lefooter
+{
+    font-size: 30px;
+    color: black;
+}
+
+section
+{
+    background-color: #4c88a1;
+}
+
+.lehaut
+{
+    color: black;
+}
+
+.lafin
+{
+    color: black;
+}
+
+.lafin1
+{
+    color: black;
+}
+
+
+
+@media screen and (max-width: 768px)
+{
+    .laliste
+    {
+        margin-bottom: 20px;
+    }
+}
+
+.image-6-col{
+    margin-top: 100px;
+}
+
+nav
+{p
+    height: 40px;
+}
+
+.glyphicon-blackboard
+{
+    font-size: 250px;
+    margin-top: 120px;
+}
+
+.caca
+{
+    margin-left: 100px;
+}
+
+.zqsd
+{
+    margin: 0 auto;
+}
+
+.glyphicon-pencil
+{
+    font-size: 20em;
+    margin-top: 120px;
+    margin-left: 100px;
+}
+.glyphicon-ok
+{
+    font-size: 250px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.no-center {
+    text-align: left;
+}
+.separation{
+    margin-top: 5%;
+}
