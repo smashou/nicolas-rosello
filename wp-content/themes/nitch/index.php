@@ -42,7 +42,7 @@ if(count($allPosts)) {
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li class="active">
-                    <a title="Vous êtes déjà sur la première page" href="#">Première page
+                    <a title="Vous êtes déjà sur la première page" href="#">Accueil
                     <span class="sr-only">(current)
                     </span>
                     </a>
@@ -52,7 +52,7 @@ if(count($allPosts)) {
                     </a>
                     </li>
                     <li>
-                    <a href="" title="Bah ça c'est mon prénom, mon nom et ma classe :)">Nicolas ROSELLO 3D
+                    <a href="/" title="Auteur">Nicolas ROSELLO 3D
                     </a>
                     </li>
                 </ul>
@@ -68,12 +68,18 @@ if(count($allPosts)) {
 
             <ol class="uneliste">
                  <li class="laliste">
-                    <a class="lul" href="#ancre" title="Cliquez ici pour voir l'article">Présentation de l'entreprise</a>
+<?php
+  $page = $myPages[4];
+?>
+                    <a class="lul" href="#ancre" title="Cliquez ici pour voir l'article"><?php echo $page->post_title; ?></a>
                  </li>
 
                  <li class="laliste1">
+<?php
+  $page = $myPages[6];
+?>
                     <a class="lul1" href="#ancre1" title="Cliquez ici pour voir l'article">
-                    Les personnes dans l'entreprise et leurs métiers
+                    <?php echo $page->post_title; ?>
                     </a>
                  </li>
             </ol>

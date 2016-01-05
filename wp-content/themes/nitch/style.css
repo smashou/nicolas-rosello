@@ -3,7 +3,7 @@ body{
 }
 
 p{
-    font-size: 15px;
+    text-align: justify;
 
 }
 
@@ -165,7 +165,7 @@ section
 }
 
 nav
-{
+{p
     height: 40px;
 }
 
@@ -183,4 +183,24 @@ nav
 .zqsd
 {
     margin: 0 auto;
+}
+
+.glyphicon-pencil
+{
+    font-size: 20em;
+    margin-top: 120px;
+    margin-left: 100px;
+}
+.glyphicon-ok
+{
+    font-size: 250px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.no-center {
+    text-align: left;
+}
+.separation{
+    margin-top: 5%;
 }
