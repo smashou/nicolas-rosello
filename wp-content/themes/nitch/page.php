@@ -48,7 +48,7 @@ if(count($allPosts)) {
                     </a>
                     </li>
                     <li  class="active">
-                        <a title="Cliquez ici pour aller à la seconde page" href="layoutit2.html">Le stage</a><span class="sr-only">(current)
+                        <a title="Cliquez ici pour aller à la seconde page" href="http://nitch.integral-service.fr/details-du-stage/">Le stage</a><span class="sr-only">(current)
                     </span>
                     </li>
                     <li>
